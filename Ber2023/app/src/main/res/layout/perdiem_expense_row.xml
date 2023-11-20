@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="80dp"
+            android:layout_height="5dp"
+            android:layout_alignBaseline="@+id/textView2"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/textView2"
+            android:gravity="right"
+            android:paddingRight="10dp"
+            android:text="Expense Amount"
+            android:textSize="18dp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="118dp"
+            android:text="Allowance"
+            android:textSize="18dp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/meal_allowance"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignBaseline="@+id/perdiem_name"
+            android:layout_alignBottom="@+id/perdiem_name"
+            android:layout_alignLeft="@+id/textView2"
+            android:layout_alignRight="@+id/textView2"
+            android:ems="10"
+            android:gravity="right|center"
+            android:hint="0.00"
+            android:textColor="#000"
+            android:textSize="15dp" 
+            android:background="@drawable/rate_mile_field"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:paddingRight="5dp"
+            android:maxLength="8"/>
+
+        <EditText
+            android:id="@+id/meal_expense"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignBaseline="@+id/meal_allowance"
+            android:layout_alignLeft="@+id/textView4"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/inputbox_small"
+            android:ems="10"
+            android:gravity="right|center"
+            android:hint="0.00"
+            android:paddingRight="5dp"
+            android:inputType="numberDecimal"
+            android:digits="0123456789."
+            android:textSize="15dp"
+            android:layout_marginLeft="5dp"
+            android:maxLength="8" />
+
+        <TextView
+            android:id="@+id/perdiem_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@+id/meal_allowance"
+            android:text="Mealsfffffffffffffffffffffffffffffffffffffffffffffff"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

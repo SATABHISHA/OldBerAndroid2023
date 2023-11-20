@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body_bg" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/HeaderMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/Header"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/top_header"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".20"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Attachment"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/ShowDateDay"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="01/18/2014 (Thursday)"
+                        android:textSize="16dp" />
+
+                    <TextView
+                        android:id="@+id/tolocation"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="birinhum,ca"
+                        android:textSize="16dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_weight="1"
+            android:background="#fff"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent" >
+
+                <ImageView
+                    android:id="@+id/img2"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_alignTop="@+id/img1"
+                    android:layout_marginLeft="70dp"
+                    android:layout_toRightOf="@+id/img1"
+                    android:src="@drawable/noimage" />
+
+                <ImageView
+                    android:id="@+id/img3"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/img2"
+                    android:src="@drawable/noimage" />
+
+                <ImageView
+                    android:id="@+id/img4"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_alignLeft="@+id/img2"
+                    android:layout_alignTop="@+id/img3"
+                    android:src="@drawable/noimage" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/img1"
+                    android:layout_below="@+id/img1"
+                    android:text="Receipt 1"
+                    android:textColor="#000"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView2"
+                    android:layout_alignBottom="@+id/textView2"
+                    android:layout_alignRight="@+id/img2"
+                    android:text="Receipt 2"
+                    android:textColor="#000"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/TextView02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/img3"
+                    android:layout_below="@+id/img3"
+                    android:text="Receipt 3"
+                    android:textColor="#000"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:id="@+id/TextView03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/TextView02"
+                    android:layout_alignBottom="@+id/TextView02"
+                    android:layout_alignRight="@+id/img4"
+                    android:text="Receipt 4"
+                    android:textColor="#000"
+                    android:textSize="16dp" />
+
+                <!-- <Button
+                    android:id="@+id/capture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/TextView02"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="16dp"
+                    android:background="#596582"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:text="Take Receipt Image"
+                    android:textColor="#fff"
+                    android:textSize="18dp" /> -->
+
+                <ImageView
+                    android:id="@+id/img1"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/noimage" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/TextView02"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="28dp" >
+
+                    <Button
+                        android:id="@+id/back"
+                        android:layout_width="180dp"
+                        android:layout_height="40dp"
+                        android:layout_alignRight="@+id/capture"
+                        android:layout_below="@+id/capture"
+                        android:layout_marginTop="17dp"
+                        android:background="#596582"
+                        android:paddingLeft="25dp"
+                        android:paddingRight="15dp"
+                        android:text="Back"
+                        android:textColor="#fff"
+                        android:textSize="18dp" />
+
+                    <!-- <Button
+                        android:id="@+id/back"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_alignBaseline="@+id/done"
+                        android:layout_alignBottom="@+id/done"
+                        android:layout_marginLeft="22dp"
+                        android:layout_toRightOf="@+id/done"
+                        android:background="#596582"
+                        android:paddingLeft="25dp"
+                        android:paddingRight="25dp"
+                        android:text="Back"
+                        android:textColor="#fff"
+                        android:textSize="18dp" /> -->
+                </RelativeLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/FooterMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/Footer"
+                android:layout_width="fill_parent"
+                android:layout_height="42dp"
+                android:layout_marginBottom="0dp"
+                android:background="@drawable/footer_bg"
+                android:gravity="center_vertical|center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/footer_text"
+                    android:textSize="@dimen/footer_text" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

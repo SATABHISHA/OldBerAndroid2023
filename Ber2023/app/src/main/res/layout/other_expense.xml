@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body_bg"
+    android:orientation="vertical" >
+
+     <LinearLayout
+        android:id="@+id/HeaderMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/Header"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/top_header"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight=".20"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/EnterExpenses"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/ShowDateDay"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="01/18/2014 (Thursday)"
+                    android:textSize="16dp" />
+                <TextView
+                    android:id="@+id/tolocation"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="birinhum,ca"
+                    android:textSize="16dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/HeaderMain"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="16dp"
+                android:text="Expense Type : "
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/Exptype"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/textView1"
+                android:layout_toRightOf="@+id/textView1"
+                android:text=""
+                android:textColor="@android:color/holo_blue_light"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="340dp"
+                android:layout_height="2dp"
+                android:layout_below="@+id/textView1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="8dp"
+                android:background="#7F7F7F" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/btm_btn"
+                android:layout_alignLeft="@+id/textView1"
+                android:layout_alignRight="@+id/view1"
+                android:layout_below="@+id/view1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginTop="32dp"
+                    android:text="Tolls/Parking"
+                    android:textSize="18dp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/tolls_parking"
+                    android:layout_marginTop="32dp"
+                    android:text="Taxi/Transit"
+                    android:textSize="18dp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/textView7"
+                    android:layout_marginTop="32dp"
+                    android:text="Copy Service"
+                    android:textSize="18dp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginTop="10dp"
+                    android:gravity="right"
+                    android:paddingRight="20dp"
+                    android:text="Expense ($)"
+                    android:textColor="#000"
+                    android:textSize="14dp" />
+
+                <EditText
+                    android:id="@+id/tolls_parking"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView6"
+                    android:layout_alignBottom="@+id/textView6"
+                    android:layout_alignLeft="@+id/textView5"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:ems="10"
+                    android:gravity="right"
+                    android:hint="0.00"
+                    android:inputType="numberDecimal"
+                    android:paddingRight="20dp"
+                    android:textSize="15dp"
+                    android:visibility="invisible" />
+
+                <!-- <ListView
+                    android:id="@+id/listView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/editText1"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignRight="@+id/tolls_parking"
+                    android:layout_alignTop="@+id/textView6"
+                    android:divider="@null"
+                    android:listSelector="@android:color/transparent" >
+                </ListView> -->
+                
+                <ScrollView
+                    android:id="@+id/row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/textView8"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignTop="@+id/textView6"
+                    android:divider="@null"
+                    android:fadeScrollbars="false"
+                    android:fadingEdge="none"
+                    android:listSelector="@android:color/transparent"
+                    android:paddingBottom="10dp" >
+
+                    <LinearLayout
+                        android:id="@+id/listView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" />
+                </ScrollView>
+
+                <EditText
+                    android:id="@+id/editText1"
+                    android:layout_width="121dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView11"
+                    android:layout_alignBottom="@+id/textView11"
+                    android:layout_alignRight="@+id/row"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/inputbox"
+                    android:ems="10"
+                    android:focusable="false"
+                    android:gravity="right|center"
+                    android:hint="0.00"
+                    android:inputType="numberDecimal"
+                    android:paddingRight="10dp"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="130dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView5"
+                    android:layout_alignBottom="@+id/textView5"
+                    android:layout_toLeftOf="@+id/editText1"
+                    android:gravity="right"
+                    android:text="Allowance($)"
+                    android:textColor="#000"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/textView12"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="17dp"
+                    android:text="Total"
+                    android:textColor="#000"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginBottom="14dp"
+                    android:gravity="right"
+                    android:paddingRight="10dp"
+                    android:text="Remove This Expenses"
+                    android:textColor="@android:color/holo_blue_light"
+                    android:textSize="18dp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btm_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="15dp" >
+
+                <Button
+                    android:id="@+id/back"
+                    android:layout_width="90dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:background="#596582"
+                    android:text="Back"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/next"
+                    android:layout_width="90dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/back"
+                    android:background="#596582"
+                    android:text="Next"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/calender"
+                    android:layout_width="192dp"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/back"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:background="#596582"
+                    android:text="Calender"
+                    android:textColor="#fff" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

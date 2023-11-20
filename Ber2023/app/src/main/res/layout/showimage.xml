@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body_bg" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/HeaderMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/Header"
+                android:layout_width="fill_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/top_header"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".20"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="Attachment(s)"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/ShowDateDay"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="01/18/2014 (Thursday)"
+                        android:textSize="16dp" />
+
+                    <TextView
+                        android:id="@+id/tolocation"
+                        style="@style/Footer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:text="birinhum,ca"
+                        android:textSize="16dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_weight="1"
+            android:background="#fff"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/txt"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:orientation="vertical" 
+                android:layout_marginTop="10dp"
+                android:background="@drawable/rectborder"
+                android:text="No Receipt(s) Attached"
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="17dp"
+                android:visibility="gone" />
+
+            <ScrollView
+                android:id="@+id/scrollView1"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="0.46" >
+
+                <LinearLayout
+                    android:id="@+id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical" >
+                </LinearLayout>
+            </ScrollView>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" >
+
+                <Button
+                    android:id="@+id/capture"
+                    android:layout_width="180dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="#596582"
+                    android:textAlignment="center"
+                    android:text="Attach Receipt(s)"
+                    android:textColor="#fff"
+                    android:textSize="18dp" />
+
+                <Button
+                    android:id="@+id/done"
+                    android:layout_width="180dp"
+                    android:layout_height="40dp"
+                    android:layout_below="@+id/capture"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:background="#596582"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="       Done       "
+                    android:textColor="#fff"
+                    android:textSize="18dp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/FooterMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/Footer"
+                android:layout_width="fill_parent"
+                android:layout_height="42dp"
+                android:layout_marginBottom="0dp"
+                android:background="@drawable/footer_bg"
+                android:gravity="center_vertical|center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/footer_text"
+                    android:textSize="@dimen/footer_text" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

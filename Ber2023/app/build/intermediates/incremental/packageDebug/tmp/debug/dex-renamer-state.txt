@@ -1,0 +1,4 @@
+#Mon Nov 20 15:29:34 IST 2023
+base.0=/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

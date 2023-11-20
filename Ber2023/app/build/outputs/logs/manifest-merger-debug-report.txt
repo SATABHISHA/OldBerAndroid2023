@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/debashispal/.gradle/caches/transforms-3/a29fa1e7e07b8e1b274a26b7d6a78dd1/transformed/volley-1.1.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] /Users/debashispal/.gradle/caches/transforms-3/a29fa1e7e07b8e1b274a26b7d6a78dd1/transformed/volley-1.1.0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/debashispal/.gradle/caches/transforms-3/a29fa1e7e07b8e1b274a26b7d6a78dd1/transformed/volley-1.1.0/AndroidManifest.xml:7:5-43
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:11:19-57
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:15:22-78
+application
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:17:5-107:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/debashispal/.gradle/caches/transforms-3/a29fa1e7e07b8e1b274a26b7d6a78dd1/transformed/volley-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/debashispal/.gradle/caches/transforms-3/a29fa1e7e07b8e1b274a26b7d6a78dd1/transformed/volley-1.1.0/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:20:9-41
+	android:largeHeap
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:23:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:22:9-44
+activity#com.nextgenbermobileapp.activity.LoginActivity
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:26:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:25:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.nextgenbermobileapp.activity.ViewCalendar
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:36:13-50
+activity#com.nextgenbermobileapp.activity.ShowCalendarList
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:39:9-42:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:40:13-54
+activity#com.nextgenbermobileapp.activity.InputForm
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:43:9-47:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:45:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:44:13-47
+activity#com.nextgenbermobileapp.activity.ShowLocationList
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:48:9-52:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:50:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:51:13-52
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:49:13-54
+activity#com.nextgenbermobileapp.activity.ShowTask
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:53:9-57:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:55:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:54:13-46
+activity#com.nextgenbermobileapp.activity.ShowLocationToList
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:58:9-62:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:59:13-56
+activity#com.nextgenbermobileapp.activity.NewInputForm
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:63:9-66:20
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:64:13-50
+activity#com.nextgenbermobileapp.activity.ShowImage
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:67:9-70:56
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:69:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:70:14-53
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:68:13-47
+activity#com.nextgenbermobileapp.activity.Expense_Perdiem
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:71:9-74:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:73:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:74:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:72:13-53
+activity#com.nextgenbermobileapp.activity.Expense_others
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:75:9-78:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:77:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:78:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:76:13-52
+activity#com.nextgenbermobileapp.activity.Expense_typte
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:79:9-82:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:81:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:82:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:80:13-51
+activity#com.nextgenbermobileapp.activity.Expense_Travel
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:83:9-86:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:85:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:86:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:84:13-52
+activity#com.nextgenbermobileapp.activity.Show_Purpose
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:87:9-90:63
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:89:13-49
+	android:theme
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:90:13-60
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:88:13-50
+activity#com.nextgenbermobileapp.activity.ExpenseSummary
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:91:9-94:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:93:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:94:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:92:13-52
+activity#com.nextgenbermobileapp.activity.Direct_summary
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:95:9-98:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:97:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:98:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:96:13-52
+activity#com.nextgenbermobileapp.activity.Showimage_Direct
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:99:9-102:68
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:101:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:102:13-65
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:100:13-54
+activity#com.nextgenbermobileapp.activity.FullScreen
+ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:103:9-106:63
+	android:screenOrientation
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:105:13-49
+	android:theme
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:106:13-60
+	android:name
+		ADDED from /Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/AndroidManifest.xml:104:13-48

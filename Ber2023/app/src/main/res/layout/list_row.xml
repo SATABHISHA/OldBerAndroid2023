@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rectborder"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="50"
+            android:gravity="right|center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/ShowDateforText"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:text="hjhjh"
+                android:textSize="@dimen/business_expenses_report" />
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="50"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/ShowDayforText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="50"
+                android:text="tt"
+                android:textSize="@dimen/business_expenses_report" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

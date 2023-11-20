@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/values-xhdpi/footer_text_size.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,57,158",
+                        "endColumns": "55,42,46",
+                        "endOffsets": "152,95,200"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,154",
+                        "endColumns": "55,42,46",
+                        "endOffsets": "106,149,196"
+                    }
+                }
+            ]
+        }
+    ]
+}

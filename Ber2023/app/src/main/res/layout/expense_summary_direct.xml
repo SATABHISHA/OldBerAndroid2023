@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/HeaderMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/Header"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/top_header"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight=".20"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView3"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Expense Sumary"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/ShowDateDay"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="01/18/2014 (Thursday)"
+                    android:textSize="16dp" />
+                <TextView
+                    android:id="@+id/tolocation"
+                    style="@style/Footer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="birinhum,ca"
+                    android:textSize="16dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/HeaderMain"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/btm_btn"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical" >
+
+                <!-- <ListView
+                    android:id="@+id/listView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/editText1"
+                    android:layout_alignParentLeft="true"
+                    android:divider="@null"
+                    android:listSelector="@android:color/transparent"
+                    android:layout_marginLeft="10dp"
+                    android:paddingBottom="30dp"
+                    android:fadeScrollbars="false" >
+                </ListView> -->
+
+                <ScrollView
+                    android:id="@+id/scrl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/textView11"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:divider="@null"
+                    android:fadeScrollbars="false"
+                    android:fadingEdge="none"
+                    android:listSelector="@android:color/transparent"
+                    android:paddingBottom="10dp"
+                    android:layout_margin="10dp" >
+
+                    <LinearLayout
+                        android:id="@+id/listView1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" />
+                </ScrollView>
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="Total Expense"
+                    android:textColor="#000"
+                    android:textSize="18dp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editText1"
+                    android:layout_width="121dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView11"
+                    android:layout_alignBottom="@+id/textView11"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/inputbox"
+                    android:clickable="false"
+                    android:ems="10"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="right|center"
+                    android:hint="0.00"
+                    android:inputType="numberDecimal"
+                    android:textSize="20dp"
+                    android:paddingRight="10dp" />
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/editText1"
+                    android:layout_alignBottom="@+id/editText1"
+                    android:layout_toLeftOf="@+id/editText1"
+                    android:text="$"
+                    android:textSize="18dp"
+                    android:paddingRight="5dp" />
+
+            </RelativeLayout>
+            <!-- </ScrollView> -->
+
+            <RelativeLayout
+                android:id="@+id/btm_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="18dp" >
+                
+                 <Button
+                    android:id="@+id/receipt"
+                    android:layout_width="260dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:background="#596582"
+                    android:text="View Receipt"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/back"
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/receipt"
+                    android:layout_marginTop="16dp"
+                    android:background="#596582"
+                    android:text="Back"
+                    android:textColor="#fff" />
+
+                <Button
+                    android:id="@+id/calender"
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:layout_alignBaseline="@+id/back"
+                    android:layout_alignBottom="@+id/back"
+                    android:layout_toRightOf="@+id/back"
+                    android:background="#596582"
+                    android:layout_marginLeft="20dp"
+                    android:text="Calender"
+                    android:textColor="#fff" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>
