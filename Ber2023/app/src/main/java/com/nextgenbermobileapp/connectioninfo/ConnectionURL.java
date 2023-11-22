@@ -29,9 +29,11 @@ public class ConnectionURL {
 	// public static final String URL_For_Login =
 	// "http://nextgenmobile.gstweb.com/Service.asmx";
 
-	public static final String SOAP_ACTION_For_WeekDateList = "http://tempuri.org/WeekDateListYearwise";
+//	public static final String SOAP_ACTION_For_WeekDateList = "http://tempuri.org/WeekDateListYearwise";
+	public static final String SOAP_ACTION_For_WeekDateList = "http://14.99.211.60:9012/BERService.asmx/WeekDateListYearwise";
 	public static final String METHOD_NAME_For_WeekDateList = "WeekDateListYearwise";
-	public static final String NAMESPACE_For_WeekDateList = "http://tempuri.org/";
+//	public static final String NAMESPACE_For_WeekDateList = "http://tempuri.org/";
+	public static final String NAMESPACE_For_WeekDateList = "http://14.99.211.60:9012/";
 	public static final String URL_For_WeekDateList = "BERService.asmx";
 
 	// public static final String URL_For_WeekDateList =

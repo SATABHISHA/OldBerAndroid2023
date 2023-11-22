@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/values/dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
-                    },
-                    "to": {
-                        "startLines": "20,21",
-                        "startColumns": "4,4",
-                        "startOffsets": "884,942",
-                        "endColumns": "57,55",
-                        "endOffsets": "937,993"
-                    }
-                },
-                {
-                    "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/values/styles.xml",
+                    "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "7,17,33,21,27",
                         "startColumns": "4,4,4,4,4",
@@ -40,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/values/strings.xml",
+                    "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,9,15,18,12,7,19,13,14,16,10,8,17,5,11,6,4,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "98,432,684,813,551,309,860,591,637,724,472,378,770,197,512,256,139,57",
+                        "endColumns": "39,38,38,45,38,67,43,43,46,44,38,52,41,57,37,51,56,39",
+                        "endOffsets": "133,466,718,854,585,372,899,630,678,764,506,426,807,250,545,303,191,92"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,173,219,258,326,370,414,460,505,544,597,639,697,735,787,844",
+                        "endColumns": "39,38,38,45,38,67,43,43,45,44,38,52,41,57,37,51,56,39",
+                        "endOffsets": "90,129,168,214,253,321,365,409,455,500,539,592,634,692,730,782,839,879"
+                    }
+                },
+                {
+                    "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "15,29,18,25,26,20,21,24,23,17,13,22,14,16,27,19,4,3,6,10,9,8,7,5,11,28,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,20 +57,20 @@
                     }
                 },
                 {
-                    "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/values/colors.xml",
+                    "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "3,9,15,18,12,7,19,13,14,16,10,8,17,5,11,6,4,2",
-                        "startColumns": "4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "98,432,684,813,551,309,860,591,637,724,472,378,770,197,512,256,139,57",
-                        "endColumns": "39,38,38,45,38,67,43,43,46,44,38,52,41,57,37,51,56,39",
-                        "endOffsets": "133,466,718,854,585,372,899,630,678,764,506,426,807,250,545,303,191,92"
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,95,134,173,219,258,326,370,414,460,505,544,597,639,697,735,787,844",
-                        "endColumns": "39,38,38,45,38,67,43,43,45,44,38,52,41,57,37,51,56,39",
-                        "endOffsets": "90,129,168,214,253,321,365,409,455,500,539,592,634,692,730,782,839,879"
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "884,942",
+                        "endColumns": "57,55",
+                        "endOffsets": "937,993"
                     }
                 }
             ]

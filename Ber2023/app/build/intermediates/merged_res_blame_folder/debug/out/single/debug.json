@@ -1,846 +1,846 @@
 [
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_right_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/right_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_logininputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/logininputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_view_purpose_list_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/view_purpose_list_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_left_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/left_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/anim_right_to_left.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/anim/right_to_left.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_submit_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/submit_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_right_arrow_inactive.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/right_arrow_inactive.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/calander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_inputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/inputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/anim_slide_out_right.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/anim/slide_out_right.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_userid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/userid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_delete.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/delete.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_delete.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/delete.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_right_arrow_inactive.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/right_arrow_inactive.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_password_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/password_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_claander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/claander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/activity_login.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_left_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/left_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_no_format.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/no_format.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_perdiem_expense.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/perdiem_expense.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_left_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/left_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_showimage.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/showimage.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/anim_slide_in_left.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/anim/slide_in_left.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_undo_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/undo_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_right_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/right_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submit_button_disable.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/submit_button_disable.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_for_spinner.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_for_spinner.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_msexcel_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/msexcel_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_top_header.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/top_header.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_four.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_four.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_approve_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/approve_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_calaender_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/calaender_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_tile_small.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calendar_tile_small.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_loginbg_img.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/loginbg_img.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_logout.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/logout.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_gif_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/gif_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_return_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/return_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_three.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_three.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_delete.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/delete.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_body_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/body_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_showimage_direct.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/showimage_direct.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_footer_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/footer_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_submit_button_disable.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/submit_button_disable.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_left_arrow_selector.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calendar_left_arrow_selector.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_travel_expense_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/travel_expense_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_save.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/save.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_deselect.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/checkbox_deselect.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_left_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/left_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_customcheckbox.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/customcheckbox.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_save.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/save.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_perdiem_expense.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/perdiem_expense.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rate_mile_field_white.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rate_mile_field_white.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_custom_border.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/custom_border.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_line.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/line.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_refreshbtn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/refreshbtn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_travel_expense.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/travel_expense.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_input_form_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/input_form_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_gif_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/gif_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_footer_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/footer_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_one.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_one.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_view_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/view_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_inputbox_small.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/inputbox_small.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_expense_summary_direct.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/expense_summary_direct.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_full_image_screen.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/full_image_screen.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_return_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/return_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_left_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/left_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_travel.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/travel.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectborder.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rectborder.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_checkbox_deselect.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/checkbox_deselect.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_full_image_screen.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/full_image_screen.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_right_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/right_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_left_arrow_deactivated.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/left_arrow_deactivated.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_login_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/login_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_approve_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/approve_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_selector_delete_undo.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/selector_delete_undo.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_save.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/save.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_approve_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/approve_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_add.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/add.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/anim_left_to_right.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/anim/left_to_right.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_refreshbtn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/refreshbtn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_delete.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/delete.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_claander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/claander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_calander_bodypart.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/calander_bodypart.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_exit_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/exit_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_noimage.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/noimage.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_saved.jpg.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/saved.jpg"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_inputform_same_expense.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/inputform_same_expense.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_top_header.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/top_header.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_attachment.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/attachment.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_expense_summary_direct.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/expense_summary_direct.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_calender_list_data1.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/calender_list_data1.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_login_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/login_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_refreshbtn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/refreshbtn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submitted.jpg.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/submitted.jpg"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_for_spinner.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_for_spinner.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calander_bodypart.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/calander_bodypart.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_add.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/add.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_custom_button.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/custom_button.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_submit_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/submit_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_submit_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/submit_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_attached.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/attached.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_userid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/userid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_submit_button_disable.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/submit_button_disable.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/anim_slide_out_right.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/anim/slide_out_right.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_top_header.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/top_header.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_loginbg_img.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/loginbg_img.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_right_arrow_inactive.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/right_arrow_inactive.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_msexcel_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/msexcel_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_loginbg_img.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/loginbg_img.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_left_arrow_deactivated.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/left_arrow_deactivated.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectborder.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rectborder.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_calaender_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/calaender_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_approve_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/approve_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_logout.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/logout.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_view_purpose_list_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/view_purpose_list_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_leftarrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/leftarrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/anim_slide_in_left.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/anim/slide_in_left.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_for_location.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_for_location.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_body_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/body_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_refreshbtn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/refreshbtn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_submit_button_disable.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/submit_button_disable.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_direct_expense_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/direct_expense_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_return_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/return_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_body_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/body_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_input_form_activity1.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/input_form_activity1.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_delete.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/delete.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_trashicon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/trashicon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_appicon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/appicon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_deselect.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/checkbox_deselect.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_cropid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/cropid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_rectborder.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/rectborder.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_recboarderfour.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/recboarderfour.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_logout.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/logout.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_noimage.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/noimage.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_login_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/login_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submit_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/submit_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_approved.jpg.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/approved.jpg"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_saved_colorbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/saved_colorbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_allinputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/allinputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_submit_button_disable.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/submit_button_disable.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_show_image_in_list.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/show_image_in_list.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_show_image_in_list.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/show_image_in_list.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_showimage.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/showimage.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_cropid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/cropid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_checkbox_select.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/checkbox_select.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_appicon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/appicon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_list_divider.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/list_divider.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_body_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/body_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_delete.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/delete.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_direct_expense_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/direct_expense_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_userid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/userid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_footer_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/footer_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_save.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/save.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_input_form_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/input_form_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_inputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/inputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_claander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/claander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_other_expense_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/other_expense_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_show_camera_image.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/show_camera_image.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_perdiem_expense_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/perdiem_expense_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submit_button_disable.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/submit_button_disable.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_attachment.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/attachment.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_selector_delete_undo.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/selector_delete_undo.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_approve_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/approve_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_left_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/left_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_userid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/userid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_userid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/userid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_logout.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/logout.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_line.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/line.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_submit_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/submit_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_add.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/add.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_checkbox_deselect.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/checkbox_deselect.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_inputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/inputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_inputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/inputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_loginbg_img.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/loginbg_img.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_refrshbtn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/refrshbtn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_inputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/inputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_login_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/login_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_right_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/right_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_jpg_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/jpg_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_footer_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/footer_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_expense_summary.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/expense_summary.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_print_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/print_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_notepad_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/notepad_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_saved_colorbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/saved_colorbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_cropid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/cropid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_logout.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/logout.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calander_bodypart.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/calander_bodypart.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_tile_small.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calendar_tile_small.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_inputform_same_expense.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/inputform_same_expense.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_loginbg_img.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/loginbg_img.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_four.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_four.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_left_arrow_deactivated.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/left_arrow_deactivated.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_refrshbtn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/refrshbtn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_two.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_two.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_bmp_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/bmp_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/anim_left_to_right.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/anim/left_to_right.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_trashicon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/trashicon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboardertwo.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rectboardertwo.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_saved_colorbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/saved_colorbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_left_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/left_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_view_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/view_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_password_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/password_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rate_mile_field.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rate_mile_field.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_exit_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/exit_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboarderone.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rectboarderone.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_right_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/right_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_calender_list_data1.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/calender_list_data1.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_claander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/claander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_calendar_view_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/calendar_view_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_circleplus.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/circleplus.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_refreshbtn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/refreshbtn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_returned.jpg.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/returned.jpg"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_password_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/password_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calaender_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/calaender_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboarderthree.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rectboarderthree.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_undo_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/undo_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_return_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/return_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_loginbg_img.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/loginbg_img.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_location_list_view_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/location_list_view_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_perdiem_expense_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/perdiem_expense_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_screen_gridcell.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/screen_gridcell.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_attachment.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/attachment.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_calaender_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/calaender_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_rectborder.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/rectborder.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_rectborder.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/rectborder.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_trash_two.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/trash_two.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_saved_colorbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/saved_colorbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_back_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/back_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rate_mile_field.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rate_mile_field.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_login_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/login_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_travel_expense_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/travel_expense_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_summary_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/summary_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_appicon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/appicon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/calander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_login_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/login_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_left_arrow_selector.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calendar_left_arrow_selector.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_button_selector.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calendar_button_selector.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_view_task_list_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/view_task_list_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calaender_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/calaender_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_cropid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/cropid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_left_arrow_deactivated.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/left_arrow_deactivated.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_calaender_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/calaender_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_logout.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/logout.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_save.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/save.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_png_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/png_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_login_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/login_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calander_bodypart.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/calander_bodypart.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_delete.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/delete.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_circleplus.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/circleplus.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_select.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/checkbox_select.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_right_arrow_selector.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calendar_right_arrow_selector.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_right_arrow_inactive.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/right_arrow_inactive.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_add.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/add.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboardertwo.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rectboardertwo.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_saved_colorbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/saved_colorbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_approved.jpg.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/approved.jpg"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_body_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/body_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_submit_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/submit_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_loginbg_img.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/loginbg_img.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_png_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/png_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_right_arrow_inactive.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/right_arrow_inactive.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_notepad_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/notepad_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_bmp_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/bmp_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_button_selector.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calendar_button_selector.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_inputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/inputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_return_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/return_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_saved_colorbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/saved_colorbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_allinputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/allinputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_pdf_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/pdf_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_logout.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/logout.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_back.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/back.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_password_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/password_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_right_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/right_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_password_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/password_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submit_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/submit_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_left_arrow_deactivated.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/left_arrow_deactivated.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_claander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/claander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_other_expense.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/other_expense.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calander_topbar.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/calander_topbar.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_footer_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/footer_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_logout.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/logout.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_screen_gridcell.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/screen_gridcell.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_bg_orange.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/calendar_bg_orange.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_left_arrow.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/left_arrow.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_left_arrow_deactivated.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/left_arrow_deactivated.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_attachment.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/attachment.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_appicon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/appicon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_top_header.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/top_header.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_cropid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/cropid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_saved_colorbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/saved_colorbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_calender_list_data.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/calender_list_data.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_calander_bodypart.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/calander_bodypart.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_right_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/right_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_right_arrow_inactive.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/right_arrow_inactive.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_trash.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/trash.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_attachment.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/attachment.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_delete.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/delete.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calaender_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/calaender_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_submitted.jpg.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/submitted.jpg"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_pdf_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/pdf_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_top_header.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/top_header.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_two.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_two.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_appicon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/appicon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_back.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/back.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_top_header.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/top_header.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_left_arrow_deactivated.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/left_arrow_deactivated.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_exit_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/exit_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_login_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/login_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_recboarderfour.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/recboarderfour.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_claander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/claander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_one.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_one.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_travel.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/travel.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_leftarrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/leftarrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_add.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/add.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_inputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/inputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_submit_button_disable.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/submit_button_disable.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_cropid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/cropid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_view_task_list_activity.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/view_task_list_activity.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_footer_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/footer_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboarderone.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/rectboarderone.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_calender_list_data.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/calender_list_data.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/menu_login.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/menu/login.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_three.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/list_row_three.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_right_arrow.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/right_arrow.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_save.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/save.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_userid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/userid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_appicon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/appicon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_attachment.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/attachment.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_cropid_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/cropid_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_appicon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/appicon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_trash_two.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/trash_two.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_return_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/return_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_cropid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/cropid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_footer_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/footer_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_other_expense.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/other_expense.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_body_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/body_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_returned.jpg.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/returned.jpg"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/menu_login.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/menu/login.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_showimage_direct.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/showimage_direct.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calander_topbar.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/calander_topbar.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_list_divider.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/list_divider.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_return_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/return_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_msword_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/msword_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_left_arrow_deactivated.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/left_arrow_deactivated.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_checkbox_select.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/checkbox_select.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/anim_right_to_left.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/anim/right_to_left.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_approve_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/approve_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_saved.jpg.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/saved.jpg"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_right_arrow_inactive.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/right_arrow_inactive.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_inputbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/inputbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_exit_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/exit_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_approve_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/approve_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_jpg_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/jpg_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_footer_bg.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/footer_bg.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_rectborder.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/rectborder.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_image_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/image_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_expense_summary.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/expense_summary.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_approve_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/approve_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_input_form_activity1.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/input_form_activity1.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_password_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/password_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_trash.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/trash.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_checkbox_select.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/checkbox_select.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_calander_bodypart.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/calander_bodypart.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_print_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/print_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_other_expense_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/other_expense_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_custom_button.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/custom_button.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_attached.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/attached.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_delete.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/delete.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_return_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/return_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_submit_button_disable.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/submit_button_disable.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_top_header.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/top_header.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_calendar_view_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/calendar_view_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_custom_border.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/custom_border.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_location_list_view_activity.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/location_list_view_activity.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_no_format.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/no_format.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_right_arrow_selector.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calendar_right_arrow_selector.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_list_row_for_location.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/list_row_for_location.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_add.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/add.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_right_arrow_inactive.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/right_arrow_inactive.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rate_mile_field_white.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rate_mile_field_white.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_calaender_button.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/calaender_button.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_submit_button.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/submit_button.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable_customcheckbox.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable/customcheckbox.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_msword_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/msword_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_refreshbtn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/refreshbtn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_image_row.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/image_row.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_calander_bodypart.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/calander_bodypart.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_logininputbox.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/logininputbox.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_saved_colorbox.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/saved_colorbox.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_appicon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/appicon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_inputbox_small.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/inputbox_small.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_body_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-mdpi/body_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_password_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/password_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_top_header.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/top_header.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calander_bodypart.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-hdpi/calander_bodypart.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/layout_travel_expense.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/layout/travel_expense.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_login_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/login_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_body_bg.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xhdpi/body_bg.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_userid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xxhdpi/userid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_password_icon.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/password_icon.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_summary_row.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/summary_row.xml"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_loginbg_img.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-xxhdpi/loginbg_img.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_back_btn.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-xhdpi/back_btn.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_calendar_bg_orange.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/calendar_bg_orange.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_userid_icon.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/userid_icon.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable-hdpi_login_btn.png.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable-hdpi/login_btn.png"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/drawable-mdpi_delete.png.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/drawable-mdpi/delete.png"
     },
     {
-        "merged": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/build/intermediates/merged_res/debug/drawable_rectboarderthree.xml.flat",
-        "source": "/Users/debashispal/Downloads/AndroidBerApp/Ber2023/app/src/main/res/drawable/rectboarderthree.xml"
+        "merged": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/build/intermediates/merged_res/debug/layout_show_camera_image.xml.flat",
+        "source": "/Users/debashispal/Downloads/git/OldBerAndroid2023/Ber2023/app/src/main/res/layout/show_camera_image.xml"
     }
 ]
